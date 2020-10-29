@@ -4,4 +4,10 @@
 
 ### Wiring
 
-<img src = "https://github.com/hnovak94/Circuit_Python/blob/main/media%2Bwiring/Screenshot%202020-10-24%20at%204.02.45%20PM.png" height = "250">
+<img src = "https://github.com/hnovak94/Circuit_Python/blob/main/media%2Bwiring/led_blink_wd.png" height = "250">
+
+## Servo with Capacitive Touch
+
+### Wiring
+
+<img src= "https://github.com/hnovak94/Circuit_Python/blob/main/media%2Bwiring/cp_servo_wd.png" height = "250">
