@@ -20,3 +20,11 @@ This assignment I continued to learn how to use CircuitPython. The assignment wa
 ### Wiring
 
 <img src= "https://github.com/hnovak94/Circuit_Python/blob/main/media%2Bwiring/cp_servo_wd.png" height = "250">
+
+## Classes, Objects, + Modules
+
+### Lessons Learned
+For this assignment I had to figure out how to code the annode RGB LEDs. At first when I did research the adafruit website said they had to be coded using PMW pins (the pulseio library), but I couldn't get that code to work, so I tried just using the digitalio library which worked. I didn't quite understand the logic of the instances at first, so it was useful to match up the logic that I understood of the RGB led with the sample dog code used in the assignment.  
+### Wiring
+<img src= "https://github.com/hnovak94/Circuit_Python/blob/main/media_wiring/rgb_class_wd.png" height = "250">
+ 
