@@ -1,5 +1,6 @@
 
-from digitalio import DigitalInOut, Direction, Pull
+from digitalio import DigitalInOut, Direction, Pull  
+#  importing the above makes the code faster to write
 import time
 import board
 
