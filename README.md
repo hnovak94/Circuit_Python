@@ -26,8 +26,7 @@ This assignment I continued to learn how to use CircuitPython. The assignment wa
 
 ### Wiring Diagram
 
-<img src= "https://github.com/hnovak94/Circuit_Python/blob/main/media_wiring/p.interrupt_wd.png
-" height = "250">
+<img src= "https://github.com/hnovak94/Circuit_Python/blob/main/media_wiring/p.interrupt_wd.png" height = "250">
 
 ## Classes, Objects, + Modules
 
