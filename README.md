@@ -38,6 +38,8 @@ This assignment I had to get a photointerrupter working with circuitpython. I fo
 
 ### Lessons
 
+For this assignment we had to code the neopixel light on the metro express with the ultrasonic sensor. A big problem I had was finding any website that had information about doing color gradients with the neopixel. I broke the rainbow into steps that I could understand, but there was still some math that took me awhile to figure out. I had to do research online and look at peer work. The starter code I used was from the adafruit website [here](https://learn.adafruit.com/ultrasonic-sonar-distance-sensors/python-circuitpython), which gives both wiring diagrams and a starter code.  
+
 ### Wiring
 <img src= "https://github.com/hnovak94/Circuit_Python/blob/main/code/hcsr04_wd.png" height = "250">
 
