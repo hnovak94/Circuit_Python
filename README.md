@@ -1,4 +1,4 @@
-# Circuit_Python
+# Circuit Python
 
 ## LED Blink/Connecting to Github
 [Code](https://github.com/hnovak94/Circuit_Python/blob/main/code/led_blink.py)
@@ -21,6 +21,14 @@ This assignment I continued to learn how to use CircuitPython. The assignment wa
 ### Wiring
 
 <img src= "https://github.com/hnovak94/Circuit_Python/blob/main/media%2Bwiring/cp_servo_wd.png" height = "250">
+
+## LCD with Capacitive Touch
+
+### Lessons
+
+For this assignment I had to again use capacitive touch, but this time with an LCD screen. This assignment was the most challenging because of the libraries. I had to spend a lot of time wiping the metro express and readding the libraries. I was able to get them working using files updated by Dr. Shields. The code in itself was not that challenging, but it took a lot of time and trial and error to get the libraries working. I also kept having a problem that it wouldn't load my code due to a "soft reboot", which was solvable by merely ejecting the circuit python drive. 
+
+### Wiring
 
 ## Photointerrupter
 [Code](https://github.com/hnovak94/Circuit_Python/blob/main/code/photointerrupt_cp.py)
